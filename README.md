@@ -337,3 +337,7 @@ Now we create a remove() function that finds the item and removes it from the da
 Run your application and make sure that everything works. Create a new item and add a description to it. Then mark it as "completed" and finally delete it.
 
 Did it work? Congratulations, you have finished your first database-driven application!
+
+View the result: http://d.pr/i/10R8b  
+Download the demo: https://github.com/Vugario/Homework/archive/master.zip
+
